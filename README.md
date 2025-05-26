@@ -89,7 +89,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 ![Cost Analysis](cost_analysis.png)
 
 ### Operator Performance  
-![Operator Performance](Operator_performance.png)
+![Operator Performance](operator_performance.png)
 
 ---
 
