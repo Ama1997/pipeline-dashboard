@@ -5,7 +5,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 📁 Data Source
+##  Data Source
 
 - **Title:** [Pipeline Accidents Dataset – Kaggle](https://www.kaggle.com/datasets/usdot/pipeline-accidents)  
 - **Source:** United States Department of Transportation (USDOT)  
@@ -13,7 +13,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 📊 Dashboard Pages and Insights
+##  Dashboard Pages and Insights
 
 ### Overview Page
 
@@ -62,7 +62,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Power BI Desktop  
 - Power Query for data transformation  
@@ -71,7 +71,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 - Handling real-world accident datasets  
 - Structuring multi-page reports in Power BI  
@@ -80,7 +80,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 📷 Dashboard Previews
+##  Dashboard Previews
 
 ### Overview  
 ![Overview](overview.png)
@@ -93,7 +93,7 @@ It highlights key trends in accident frequency, cost, causes, and operator perfo
 
 ---
 
-## 📌 Next Steps
+##  Next Steps
 
 - Add monthly or quarterly trend analysis  
 - Include severity classification (if available)  
